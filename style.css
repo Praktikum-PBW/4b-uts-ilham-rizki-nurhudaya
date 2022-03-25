@@ -1,0 +1,68 @@
+.btn-primary {
+    background-color: gold;
+    border-color: khaki;
+  }
+  
+  .btn-primary:hover {
+    background-color: goldenrod;
+    border-color: khaki;
+  }
+  
+  h1, h2 {
+    color:  black;
+    font-weight: bold;
+  }
+  
+  #footer {
+    text-align: center;
+    background-color: rgb(138, 130, 247);
+    font-family: monospace;
+    padding: 5px;
+    padding-top: 10px;
+    color:rgb(255, 255, 255);
+  }
+  
+  #about {
+    margin-top: 100px;
+  }
+  
+  .card-title {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+  }
+  
+  .navbar ul li a:hover {
+    color: khaki;
+    font-weight: bold;
+    background: gold;
+    transition: .3s;
+  }
+  
+  .navbar ul li a:focus {
+    color: khaki;
+    font-weight: bold;
+    background: gold;
+    transition: .3s;
+  }
+  
+  .navbar ul li a:active {
+    color: khaki;
+    font-weight: bold;
+    background: gold;
+    transition: .3s;
+  }
+  
+  body{
+    background-color: rgb(255, 255, 255);
+    min-height: 1750px;
+  }
+  
+  .cardd{
+    padding-top: 80px;
+    
+  }
+  
+  .contact{
+    padding-top: 85px;
+  }
+  
